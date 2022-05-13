@@ -1,0 +1,5 @@
+INSERT INTO Curso(nombreCurso, fechaDeInicio, fechaDeFin, cantidadAlumnos) VALUES ('.NET', '2022-03-01', '2022-05-01', 34)
+INSERT INTO Curso(nombreCurso, fechaDeInicio, fechaDeFin, cantidadAlumnos) VALUES ('.NET', '2022-03-01', '2022-05-01', 50)
+INSERT INTO Curso(nombreCurso, fechaDeInicio, fechaDeFin, cantidadAlumnos) VALUES ('C#', '2022-03-01', '2022-05-01', 17)
+INSERT INTO Curso(nombreCurso, fechaDeInicio, fechaDeFin, cantidadAlumnos) VALUES ('Unity', '2022-03-01', '2022-05-01', 26)
+INSERT INTO Curso(nombreCurso, fechaDeInicio, fechaDeFin, cantidadAlumnos) VALUES ('Unreal Engine', '2022-03-01', '2022-05-01', 15)
